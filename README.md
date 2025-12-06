@@ -51,7 +51,7 @@ jupyter notebook
 jupyter lab
 ```
 
-Open `notebooks/few_shot_bias_analysis.ipynb` and run cells sequentially to reproduce experiments and visualize results.
+Open `notebooks/main.ipynb` and run cells sequentially to reproduce experiments and visualize results.
 
 ## Project Structure
 
