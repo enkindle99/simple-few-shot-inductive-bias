@@ -15,7 +15,7 @@ The goal is to understand how these biases impact generalization when training d
 ### Clone the repository
 
 ```bash
-git clone https://github.com/enkindle99/few-shot-inductive-bias.git
+git clone https://github.com/enkindle99/simple-few-shot-inductive-bias.git
 cd few-shot-inductive-bias
 ```
 
