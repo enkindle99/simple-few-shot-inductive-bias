@@ -1,0 +1,28 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Results folder (生成的图片等）
+results/
+
+# PyTorch model files
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
